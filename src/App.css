@@ -49,7 +49,7 @@ body {
   margin-top: 1rem;
 }
 
-@media (max-width: 990px) {
+@media (max-width: 900px) {
   .app {
     flex-direction: column;
   }
